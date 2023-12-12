@@ -1,3 +1,3 @@
 Class Hello{
-  stativ void main() { System.out.print("hello."); }
+  stativ void main() { System.out.print("hello world."); }
 }
